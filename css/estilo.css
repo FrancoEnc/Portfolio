@@ -51,9 +51,9 @@ h5{
 .desc-cust{
     color: black;
 }
-body{
-   background-color: white;
-}
+/* body{
+   /* background-color: white; */
+/* } */ 
 #inicio{
     background-color: rgb(223, 223, 223);
     background-image: url("/imagenes/Fondos-01.png");
