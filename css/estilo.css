@@ -4,7 +4,7 @@
 .barras{
     color: grey;
     font-family: 'Montserrat', sans-serif;
-    font-weight: 1000;
+    font-weight: 900;
     letter-spacing: 3px;
     font-size: 20px;
     
@@ -37,7 +37,7 @@ h4{
     font-weight: bold;
 }
 h5{
-    font-weight: 1000;
+    font-weight: 900;
     font-weight: bold;
     
 }
@@ -54,36 +54,14 @@ h5{
 /* body{
    /* background-color: white; */
 /* } */ 
-#inicio{
+.pagina{
     background-color: rgb(223, 223, 223);
     background-image: url("/imagenes/Fondos-01.png");
     max-width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
-}
-#sobre-mi{
-    background-color: rgb(223, 223, 223);
-    background-image: url("/imagenes/Fondos-01.png");
-    background-repeat: no-repeat;
-    background-size: cover;
-    max-width: 100%;
-  
-}
-#proyecto{
-    background-image:url("/imagenes/Fondos-01.png");
-    background-repeat: no-repeat;
-    background-size: cover;
-    max-width: 100%;
-    background-color: rgb(223, 223, 223);
 }
 
-#contacto{
-    background-color: rgb(223, 223, 223);
-    background-image: url("/imagenes/Fondos-01.png");
-    background-repeat: no-repeat;
-    background-size: cover;
-    max-width: 100%;
-}
 #foto{
     width: 380px;
     height: 400px;
